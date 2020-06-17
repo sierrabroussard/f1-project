@@ -10,6 +10,7 @@ Eventually, I would like to improve this in a few ways:
   3. Add a model that predicts all driver placements rather than just crashes
   
 Data sources:
+
 https://www.kaggle.com/cjgdev/formula-1-race-data-19502017
 
 http://ergast.com/mrd/
